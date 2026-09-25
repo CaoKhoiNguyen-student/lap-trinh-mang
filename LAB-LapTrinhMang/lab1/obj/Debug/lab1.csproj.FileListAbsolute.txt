@@ -1,7 +1,0 @@
-C:\Users\nguye\OneDrive\Desktop\LAB-LapTrinhMang\lab1\bin\Debug\lab1.exe.config
-C:\Users\nguye\OneDrive\Desktop\LAB-LapTrinhMang\lab1\bin\Debug\lab1.exe
-C:\Users\nguye\OneDrive\Desktop\LAB-LapTrinhMang\lab1\bin\Debug\lab1.pdb
-C:\Users\nguye\OneDrive\Desktop\LAB-LapTrinhMang\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
-C:\Users\nguye\OneDrive\Desktop\LAB-LapTrinhMang\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
-C:\Users\nguye\OneDrive\Desktop\LAB-LapTrinhMang\lab1\obj\Debug\lab1.exe
-C:\Users\nguye\OneDrive\Desktop\LAB-LapTrinhMang\lab1\obj\Debug\lab1.pdb
