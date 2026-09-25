@@ -131,6 +131,7 @@ class Program
         CheckIPType("256.300.1.1");       // Không hợp lệ
     }
 }
+```
 Câu 2.3: Nêu ý nghĩa và trường hợp sử dụng của hai địa chỉ IP đặc biệt:
 a. IPAddress.Loopback (127.0.0.1).
 
