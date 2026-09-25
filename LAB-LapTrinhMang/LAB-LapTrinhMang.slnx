@@ -4,4 +4,5 @@
   </Folder>
   <Project Path="lab1/lab1.csproj" Id="4e26ad8f-0f66-4d06-8cdf-6b414a0e17ac" />
   <Project Path="lab1_windowsform/lab1_windowsform.csproj" Id="171c0e8a-fee5-4ac5-a931-a0e64457c991" />
+  <Project Path="lab2/lab2.csproj" Id="3cb582a4-42ee-408b-9ced-568b9f0162b0" />
 </Solution>
