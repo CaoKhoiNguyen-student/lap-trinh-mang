@@ -1,0 +1,7 @@
+C:\Users\nguye\OneDrive\Desktop\lap-trinh-mang\LAB-LapTrinhMang\lab-2\ConsoleApp1\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\lap-trinh-mang\LAB-LapTrinhMang\lab-2\ConsoleApp1\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\lap-trinh-mang\LAB-LapTrinhMang\lab-2\ConsoleApp1\client\bin\Debug\client.exe.config
+C:\Users\nguye\OneDrive\Desktop\lap-trinh-mang\LAB-LapTrinhMang\lab-2\ConsoleApp1\client\bin\Debug\client.exe
+C:\Users\nguye\OneDrive\Desktop\lap-trinh-mang\LAB-LapTrinhMang\lab-2\ConsoleApp1\client\bin\Debug\client.pdb
+C:\Users\nguye\OneDrive\Desktop\lap-trinh-mang\LAB-LapTrinhMang\lab-2\ConsoleApp1\client\obj\Debug\client.exe
+C:\Users\nguye\OneDrive\Desktop\lap-trinh-mang\LAB-LapTrinhMang\lab-2\ConsoleApp1\client\obj\Debug\client.pdb
