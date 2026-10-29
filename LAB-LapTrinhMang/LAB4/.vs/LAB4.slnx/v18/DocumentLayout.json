@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A244D7F5-B466-492C-9846-494F6C1EDBFB}|Lab4_Client\\Lab4_Client.csproj|c:\\users\\nguye\\onedrive\\desktop\\ltm\\lap-trinh-mang\\lab-laptrinhmang\\lab4\\lab4_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A244D7F5-B466-492C-9846-494F6C1EDBFB}|Lab4_Client\\Lab4_Client.csproj|solutionrelative:lab4_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9761B088-0684-4D90-9D60-3C704FCCA4EB}|Lab4_Server\\Lab4_Server.csproj|c:\\users\\nguye\\onedrive\\desktop\\ltm\\lap-trinh-mang\\lab-laptrinhmang\\lab4\\lab4_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9761B088-0684-4D90-9D60-3C704FCCA4EB}|Lab4_Server\\Lab4_Server.csproj|solutionrelative:lab4_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A244D7F5-B466-492C-9846-494F6C1EDBFB}|Lab4_Client\\Lab4_Client.csproj|c:\\users\\nguye\\onedrive\\desktop\\ltm\\lap-trinh-mang\\lab-laptrinhmang\\lab4\\lab4_client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A244D7F5-B466-492C-9846-494F6C1EDBFB}|Lab4_Client\\Lab4_Client.csproj|solutionrelative:lab4_client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9761B088-0684-4D90-9D60-3C704FCCA4EB}|Lab4_Server\\Lab4_Server.csproj|c:\\users\\nguye\\onedrive\\desktop\\ltm\\lap-trinh-mang\\lab-laptrinhmang\\lab4\\lab4_server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9761B088-0684-4D90-9D60-3C704FCCA4EB}|Lab4_Server\\Lab4_Server.csproj|solutionrelative:lab4_server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Client\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab4_Client\\Employee.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Client\\Employee.cs",
+              "RelativeToolTip": "Lab4_Client\\Employee.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T02:56:16.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Server\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab4_Server\\Employee.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Server\\Employee.cs",
+              "RelativeToolTip": "Lab4_Server\\Employee.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T02:55:47.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Client\\Program.cs",
+              "RelativeToolTip": "Lab4_Client\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T02:55:14.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\Desktop\\LTM\\lap-trinh-mang\\LAB-LapTrinhMang\\LAB4\\Lab4_Server\\Program.cs",
+              "RelativeToolTip": "Lab4_Server\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T02:54:48.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\nguye\OneDrive\Desktop\LTM\lap-trinh-mang\LAB-LapTrinhMang\LAB4\Lab4_Server\bin\Debug\Lab4_Server.exe.config
+C:\Users\nguye\OneDrive\Desktop\LTM\lap-trinh-mang\LAB-LapTrinhMang\LAB4\Lab4_Server\bin\Debug\Lab4_Server.exe
+C:\Users\nguye\OneDrive\Desktop\LTM\lap-trinh-mang\LAB-LapTrinhMang\LAB4\Lab4_Server\bin\Debug\Lab4_Server.pdb
+C:\Users\nguye\OneDrive\Desktop\LTM\lap-trinh-mang\LAB-LapTrinhMang\LAB4\Lab4_Server\obj\Debug\Lab4_Server.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LTM\lap-trinh-mang\LAB-LapTrinhMang\LAB4\Lab4_Server\obj\Debug\Lab4_Server.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LTM\lap-trinh-mang\LAB-LapTrinhMang\LAB4\Lab4_Server\obj\Debug\Lab4_Server.exe
+C:\Users\nguye\OneDrive\Desktop\LTM\lap-trinh-mang\LAB-LapTrinhMang\LAB4\Lab4_Server\obj\Debug\Lab4_Server.pdb
