@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TcpEchoServerThread/TcpEchoServerThread.csproj" Id="870c5eb0-eb6c-4d8b-9bd6-4ad35e7553c1" />
+  <Project Path="ThreadExample/ThreadExample.csproj" Id="a48f294e-6425-4170-b3d5-1f08d9b7a7f2" />
+</Solution>
